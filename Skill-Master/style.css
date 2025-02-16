@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&display=swap');
+body {
+    background: linear-gradient(135deg, #1e3c72, #2a5298);
+    /* Cool blue gradient */
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.skills-container {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    width: 320px;
+}
+
+h2 {
+    color: #333;
+}
+
+.skill {
+    margin: 10px 0;
+}
+
+.skill p {
+    margin: 5px 0;
+    font-weight: bold;
+}
+
+.progress-bar {
+    background: #ddd;
+    border-radius: 5px;
+    overflow: hidden;
+    height: 20px;
+    width: 100%;
+}
+
+.progress {
+    background: #ff9800;
+    /* Orange progress color */
+    color: white;
+    padding: 5px;
+    text-align: right;
+    font-size: 12px;
+    font-weight: bold;
+    height: 100%;
+    width: 0;
+    animation: fillProgress 2s ease-in-out forwards;
+}
+
+@keyframes fillProgress {
+    from {
+        width: 0;
+    }
+}
