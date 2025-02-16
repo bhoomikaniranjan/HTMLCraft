@@ -43,3 +43,13 @@ A collection of **unique & stylish** web projects using **HTML & CSS**! Perfect 
 ✅ Fully responsive for all screen sizes  
 
 ---
+
+## 5️⃣ To-Do List – Simple Task Tracker  
+📌 **A dark-themed to-do list with checkboxes and hover effects**  
+
+### 🌟 Features:  
+✅ Minimalist dark UI  
+✅ Tasks can be checked off with strikethrough  
+✅ Smooth hover and transition effects  
+
+---
