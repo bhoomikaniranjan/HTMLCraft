@@ -5,7 +5,7 @@ A collection of **unique & stylish** web projects using **HTML & CSS**! Perfect 
 ---
 
 ## 1️⃣ QuoteWave – CSS Quote Carousel  
-📌 **A beautifully designed webpage that displays a new motivational quote on refresh—without JavaScript!**  
+**A beautifully designed webpage that displays a new motivational quote on refresh—without JavaScript!**  
 
 ### 🌟 Features:  
 ✅ Stylish quote card with gradient backgrounds  
@@ -15,7 +15,7 @@ A collection of **unique & stylish** web projects using **HTML & CSS**! Perfect 
 ---
 
 ## 2️⃣ Profile Snapshot – Interactive Profile Card  
-📌 **A hover-effect interactive profile card for portfolios, LinkedIn-style snapshots, or GitHub landing pages.**  
+**A hover-effect interactive profile card for portfolios, LinkedIn-style snapshots, or GitHub landing pages.**  
 
 ### 🌟 Features:  
 ✅ Displays profile picture, name, job role, and social links  
@@ -25,7 +25,7 @@ A collection of **unique & stylish** web projects using **HTML & CSS**! Perfect 
 ---
 
 ## 3️⃣ SkillMaster – Animated Skill Showcase  
-📌 **Showcase your technical skills with animated progress bars!**  
+**Showcase your technical skills with animated progress bars!**  
 
 ### 🌟 Features:  
 ✅ Skill bars with smooth CSS animations  
@@ -35,7 +35,7 @@ A collection of **unique & stylish** web projects using **HTML & CSS**! Perfect 
 ---
 
 ## 4️⃣ MoodBoard – Aesthetic Image Gallery  
-📌 **A Pinterest-style responsive gallery with hover effects**  
+**A Pinterest-style responsive gallery with hover effects**  
 
 ### 🌟 Features:  
 ✅ CSS Grid Masonry Layout  
@@ -45,7 +45,7 @@ A collection of **unique & stylish** web projects using **HTML & CSS**! Perfect 
 ---
 
 ## 5️⃣ To-Do List – Simple Task Tracker  
-📌 **A dark-themed to-do list with checkboxes and hover effects**  
+**A dark-themed to-do list with checkboxes and hover effects**  
 
 ### 🌟 Features:  
 ✅ Minimalist dark UI  
