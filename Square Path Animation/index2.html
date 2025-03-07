@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Centered Animation</title>
+    <style>
+        div#mydiv {
+            width: 200px;
+            height: 200px;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            animation-duration: 4s;
+            animation-name: example;
+            animation-delay: 2s;
+            animation-iteration-count: infinite;
+            animation-direction: alternate;
+        }
+        
+        @keyframes example {
+            0% {
+                background-color: blue;
+                transform: translate(-50%, -50%) translate(0, 0);
+            }
+            25% {
+                background-color: rebeccapurple;
+                transform: translate(-50%, -50%) translate(200px, 0);
+            }
+            50% {
+                background-color: greenyellow;
+                transform: translate(-50%, -50%) translate(200px, 200px);
+            }
+            75% {
+                background-color: red;
+                transform: translate(-50%, -50%) translate(0, 200px);
+            }
+            100% {
+                background-color: beige;
+                transform: translate(-50%, -50%) translate(0, 0);
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div id="mydiv"></div>
+</body>
+
+</html>
